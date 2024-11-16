@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CommonProject</string>
+    <string name="token">token</string>
+    <string name="login">login</string>
+    <string name="registration">Регистрация</string>
+    <string name="password">password</string>
+    <string name="ligging">Войти</string>
+</resources>
